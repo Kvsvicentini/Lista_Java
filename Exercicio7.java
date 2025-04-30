@@ -7,7 +7,7 @@ public class Exercicio7 {
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------");
         System.out.println("Vamos ler um número e criar uma tabuada sem usar loop");
-        System.out.println("Digite o primeiro número: ");
+        System.out.println("Digite um número: ");
         num_1 = grava.nextInt();
         a = num_1 * 0;
         b = num_1 * 1;
