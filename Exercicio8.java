@@ -6,7 +6,7 @@ public class Exercicio8 {
         Scanner grava = new Scanner(System.in);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------");
-        System.out.println("Vamos ler três números e operações matemáticas");
+        System.out.println("Vamos ler três números e realizar operações matemáticas");
 
         System.out.print("Digite o primeiro número: ");
         num_1 = grava.nextInt();
@@ -20,7 +20,7 @@ public class Exercicio8 {
         calc_3 = num_3 * 3;
 
         System.out.println("O resultado do primeiro calculo é " + calc_1);
-        System.out.print("O resultado do segundo calculo é " + calc_2);
-        System.out.print("O resultado do terceiro calculo é " + calc_3);
+        System.out.println("O resultado do segundo calculo é " + calc_2);
+        System.out.println("O resultado do terceiro calculo é " + calc_3);
     }
 }
