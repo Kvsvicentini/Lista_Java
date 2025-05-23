@@ -21,7 +21,10 @@ public class Exercicio16 {
         calc = num_1 + num_2 + num_3;
 
         if (calc > 20) {
-            System.out.print("O resultado do calculo deu " + calc + " que é maior que 20");
+            System.out.println("O resultado do calculo deu " + calc + " que é maior que 20");
+        }
+        else {
+            System.out.println("O resultado do calculo deu " + calc + "que é menor que 20");
         }
     }
 }

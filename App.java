@@ -9,7 +9,7 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         limparTela();
-        Exercicio16 p = new Exercicio16();
-        p.L3_07();
+        Exercicio25 p = new Exercicio25();
+        p.L4_06();
     }
 }
