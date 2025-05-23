@@ -5,7 +5,7 @@ public class Exercicio {
      * @param args
      * @throws Exception
      */
-    public static void main(String[] args) throws Exception {
+    public static void L1_01() {
         int num_1, result;
         Scanner grava = new Scanner(System.in);
 

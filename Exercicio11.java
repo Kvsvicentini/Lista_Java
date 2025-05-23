@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio11 {
-    public static void main(String[] args) throws Exception {
+    public static void L3_02() {
         double num_1;
         Scanner grava = new Scanner(System.in);
 
